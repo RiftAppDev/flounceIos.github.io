@@ -1,2 +1,2 @@
 # flounceIos.github.io
-This is ios app of Flounce. Created by Umut Erdem and Mustafa Cankan BALCI
+This is for our ios and android apps.Created by Umut Erdem and Mustafa Cankan BALCI
